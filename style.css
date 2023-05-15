@@ -1,0 +1,67 @@
+.navbar {
+  background-color: #000;
+}
+
+.navbar-brand img {
+  height: 30px;
+  margin-right: 10px;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #fff;
+}
+
+.nav-link:hover {
+  color: #ccc;
+}
+
+.form-inline .form-control {
+  width: 300px;
+}
+
+.navbar .btn-search {
+  background-color: navy;
+  color: #fff;
+}
+
+.navbar .btn-login,
+.navbar .btn-registration {
+  background-color: #fff;
+  color: #000;
+}
+.img-size{
+  width: 60%;
+}
+.grid-box {
+  background-color:rgba(219, 219, 219, 0.474);
+  border-bottom: 1px solid rgb(131, 127, 127);
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  margin-right: 10px;
+}
+
+.title {
+  flex-grow: 1;
+  font-weight: bold;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  border: 2px solid rgb(0, 7, 148);
+  padding: 6px 12px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+#bg-img{
+  background-image:url(images/bgpic.jpg);
+}
