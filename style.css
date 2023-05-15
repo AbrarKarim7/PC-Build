@@ -65,3 +65,12 @@
 #bg-img{
   background-image:url(images/bgpic.jpg);
 }
+.footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+.footer a {
+  color: white;
+}
